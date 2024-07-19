@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+ x =  120
+console.log(reverse(x))
+
+function reverse(num){
+    bit=Math.pow(2,31)
+    str=String(Math.abs(num))
+    revstr=str.split("").reverse().join("")
+    number=Number(revstr)
+    if(num<0){
+        number=-number
+    }if(number<-(bit)||number>(bit)-1)
+    return 0
+    else{
+        return number
+    }
+
+}
+
+
+
+
+    </script>
+    
+</body>
+</html>
