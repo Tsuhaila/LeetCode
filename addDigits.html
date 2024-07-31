@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        function addDigits(num) {
+            arr = num.toString().split("")
+            values = arr.map((num) => Number(num))
+            sum = values.reduce((a, b) => a + b)
+            if (sum < 10) {
+                return sum
+            } else {
+                return addDigits(sum)
+            }
+        };
+        num = 38
+        console.log(addDigits(num))
+    </script>
+
+</body>
+
+</html>
