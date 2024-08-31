@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        var reduce = function (nums, fn, init) {
+            var val = init
+            for (i = 0; i < nums.length; i++) {
+                val = fn(val, nums[i])
+            }
+            return val
+        };
+        nums = [1, 2, 3, 4]
+        fn = function sum(accum, curr) { return accum + curr; }
+        init = 0
+        console.log(reduce(nums, fn, init))
+    </script>
+
+</body>
+
+</html>
