@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/Tsuhaila/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Tsuhaila/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Tsuhaila/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Tsuhaila/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
