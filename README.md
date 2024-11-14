@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Tsuhaila/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Tsuhaila/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/Tsuhaila/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tsuhaila/LeetCode/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Tsuhaila/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
