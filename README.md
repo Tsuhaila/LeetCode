@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Tsuhaila/LeetCode/tree/master/0009-palindrome-number) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Tsuhaila/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Tsuhaila/LeetCode/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Tsuhaila/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
